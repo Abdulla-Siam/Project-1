@@ -76,3 +76,11 @@
 .biography li{
     margin-bottom: 15px;
 }
+
+footer{
+    margin: 50px 0;
+}
+
+.footer, p{
+    text-align: end;
+}
